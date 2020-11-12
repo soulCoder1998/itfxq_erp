@@ -198,4 +198,3 @@ html 等....
 
 需要获取资料+源码+视频的小伙伴 赶快加入 QQ2579692606  已经有很多人在学习的。
 
-![输入图片说明](https://gitee.com/soul_PreCoder/lgapp/raw/master/img/qq%E4%BA%8C%E7%BB%B4%E7%A0%81.png "在这里输入图片标题")
