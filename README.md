@@ -122,7 +122,7 @@ html 等....
 
 系统设计文档：
 
-![系统设计文档](https://gitee.com/soul_PreCoder/itfxq_erp/raw/master/pic/%E6%96%87%E6%A1%A3%E6%88%AA%E5%9B%BE.png "在这里输入图片标题")
+![系统设计文档](https://github.com/soulCoder1998/itfxq_erp/blob/main/pic/%E6%96%87%E6%A1%A3%E6%88%AA%E5%9B%BE.png "在这里输入图片标题")
 
 
 
@@ -130,67 +130,67 @@ html 等....
 
 1.  采购流程图
 
-![采购流程图](https://gitee.com/soul_PreCoder/itfxq_erp/raw/master/pic/%E9%87%87%E8%B4%AD%E6%B5%81%E7%A8%8B.png "在这里输入图片标题")
+![采购流程图](https://github.com/soulCoder1998/itfxq_erp/blob/main/pic/%E9%87%87%E8%B4%AD%E6%B5%81%E7%A8%8B.png "在这里输入图片标题")
 
 2. 销售流程图
 
-![输入图片说明](https://gitee.com/soul_PreCoder/itfxq_erp/raw/master/pic/%E9%94%80%E5%94%AE%E6%B5%81%E7%A8%8B.png "在这里输入图片标题")
+![输入图片说明](https://github.com/soulCoder1998/itfxq_erp/blob/main/pic/%E9%94%80%E5%94%AE%E6%B5%81%E7%A8%8B.png "在这里输入图片标题")
 
 #### 功能效果图展示
 
 1登录
-![输入图片说明](https://gitee.com/soul_PreCoder/itfxq_erp/raw/master/pic/1%E7%99%BB%E5%BD%95.png "在这里输入图片标题")
+![输入图片说明](https://github.com/soulCoder1998/itfxq_erp/blob/main/pic/1%E7%99%BB%E5%BD%95.png "在这里输入图片标题")
 
 2系统权限-用户列表
-![输入图片说明](https://gitee.com/soul_PreCoder/itfxq_erp/raw/master/pic/2系统权限-用户列表.png "在这里输入图片标题")
+![输入图片说明](https://github.com/soulCoder1998/itfxq_erp/blob/main/pic/2系统权限-用户列表.png "在这里输入图片标题")
 
 3新增用户
-![输入图片说明](https://gitee.com/soul_PreCoder/itfxq_erp/raw/master/pic/3新增用户.png "在这里输入图片标题")
+![输入图片说明](https://github.com/soulCoder1998/itfxq_erp/blob/main/pic/3新增用户.png "在这里输入图片标题")
 
 4用户设置角色
-![输入图片说明](https://gitee.com/soul_PreCoder/itfxq_erp/raw/master/pic/4用户设置角色.png "在这里输入图片标题")
+![输入图片说明](https://github.com/soulCoder1998/itfxq_erp/blob/main/pic/4用户设置角色.png "在这里输入图片标题")
 
 5角色模块
-![输入图片说明](https://gitee.com/soul_PreCoder/itfxq_erp/raw/master/pic/5角色模块.png "在这里输入图片标题")
+![输入图片说明](https://github.com/soulCoder1998/itfxq_erp/blob/main/pic/5角色模块.png "在这里输入图片标题")
 
 6角色模块-新增角色
-![输入图片说明](https://gitee.com/soul_PreCoder/itfxq_erp/raw/master/pic/6角色模块-新增角色.png "在这里输入图片标题")
+![输入图片说明](https://github.com/soulCoder1998/itfxq_erp/blob/main/pic/6角色模块-新增角色.png "在这里输入图片标题")
 
 7菜单模块
-![输入图片说明](https://gitee.com/soul_PreCoder/itfxq_erp/raw/master/pic/7菜单模块.png "在这里输入图片标题")
+![输入图片说明](https://github.com/soulCoder1998/itfxq_erp/blob/main/pic/7菜单模块.png "在这里输入图片标题")
 
 8菜单模块-新增菜单
-![输入图片说明](https://gitee.com/soul_PreCoder/itfxq_erp/raw/master/pic/8菜单模块-新增菜单.png "在这里输入图片标题")
+![输入图片说明](https://github.com/soulCoder1998/itfxq_erp/blob/main/pic/8菜单模块-新增菜单.png "在这里输入图片标题")
 
 9数据字典
-![输入图片说明](https://gitee.com/soul_PreCoder/itfxq_erp/raw/master/pic/9数据字典.png "在这里输入图片标题")
+![输入图片说明](https://github.com/soulCoder1998/itfxq_erp/blob/main/pic/9数据字典.png "在这里输入图片标题")
 
 10报表列表
-![输入图片说明](https://gitee.com/soul_PreCoder/itfxq_erp/raw/master/pic/10报表列表.png "在这里输入图片标题")
+![输入图片说明](https://github.com/soulCoder1998/itfxq_erp/blob/main/pic/10报表列表.png "在这里输入图片标题")
 
 11系统日志
-![输入图片说明](https://gitee.com/soul_PreCoder/itfxq_erp/raw/master/pic/11系统日志.png "在这里输入图片标题")
+![输入图片说明](https://github.com/soulCoder1998/itfxq_erp/blob/main/pic/11系统日志.png "在这里输入图片标题")
 
 12采购管理
-![输入图片说明](https://gitee.com/soul_PreCoder/itfxq_erp/raw/master/pic/12采购管理.png "在这里输入图片标题")
+![输入图片说明](https://github.com/soulCoder1998/itfxq_erp/blob/main/pic/12采购管理.png "在这里输入图片标题")
 
 13新增采购订单
-![输入图片说明](https://gitee.com/soul_PreCoder/itfxq_erp/raw/master/pic/13新增采购订单.png "在这里输入图片标题")
+![输入图片说明](https://github.com/soulCoder1998/itfxq_erp/blob/main/pic/13新增采购订单.png "在这里输入图片标题")
 
 14采购流程图
-![输入图片说明](https://gitee.com/soul_PreCoder/itfxq_erp/raw/master/pic/14采购流程图.png "在这里输入图片标题")
+![输入图片说明](https://github.com/soulCoder1998/itfxq_erp/blob/main/pic/14采购流程图.png "在这里输入图片标题")
 
 15销售单管理
-![输入图片说明](https://gitee.com/soul_PreCoder/itfxq_erp/raw/master/pic/15销售单管理.png "在这里输入图片标题")
+![输入图片说明](https://github.com/soulCoder1998/itfxq_erp/blob/main/pic/15销售单管理.png "在这里输入图片标题")
 
 16库存预警
-![输入图片说明](https://gitee.com/soul_PreCoder/itfxq_erp/raw/master/pic/16库存预警.png "在这里输入图片标题")
+![输入图片说明](https://github.com/soulCoder1998/itfxq_erp/blob/main/pic/16库存预警.png "在这里输入图片标题")
 
 17商品维护
-![输入图片说明](https://gitee.com/soul_PreCoder/itfxq_erp/raw/master/pic/17商品维护.png "在这里输入图片标题")
+![输入图片说明](https://github.com/soulCoder1998/itfxq_erp/blob/main/pic/17商品维护.png "在这里输入图片标题")
 
 18供货商维护
-![输入图片说明](https://gitee.com/soul_PreCoder/itfxq_erp/raw/master/pic/18供货商维护.png "在这里输入图片标题")
+![输入图片说明](https://github.com/soulCoder1998/itfxq_erp/blob/main/pic/18供货商维护.png "在这里输入图片标题")
 
 
 
